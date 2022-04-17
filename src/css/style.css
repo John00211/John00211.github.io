@@ -166,9 +166,15 @@ padding-right: 40px;
 .main5 {
     width: 100%;
     height: 497px;
-    background: url(../img/bg3.jpg) center/cover no-repeat;
+    background: url(../img/smile.png) 502px 276px no-repeat, url(../img/skobka.png) 772px 276px  no-repeat, url(../img/galochka.png) 1085px 276px  no-repeat, url(../img/kybok.png) 1377px 276px  no-repeat,  url(../img/polosa.png) 50% 163px/71px 3px no-repeat, url(../img/bg3.jpg) center/cover no-repeat;
 }
+.main5 h3 {
+    margin: 111px 0px 0px 914px;
+    color: #2c384a;
+    font-size: 28px;
+    font-weight: bold;
 
+}
 /*6page*/
 .main6 {
     width: 100%;
@@ -204,9 +210,25 @@ padding-right: 40px;
 .main7 {
     width: 100%;
     height: 807px;
-    background: url(../img/bg4.jpg) center/cover no-repeat;
+    background:  url(../img/geo.png) 707px 256px no-repeat, url(../img/konvert.png) 945px 256px  no-repeat, url(../img/TRUBKA.png) 1192px 256px  no-repeat, url(../img/polosa.png) 926px 161px/71px 3px no-repeat, url(../img/bg4.jpg) center/cover no-repeat;
 }
-
+.main7 h3 {
+    float:left;
+    margin: 151px 0px 0px 849px;
+     font-size: 28px;
+    font-weight: bold;
+    color: #fff;
+}
+.main7 h4 {
+    margin: 367px 0px 0px 840px;
+       font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+}
+.main7 p {
+     margin: 10px 0px 0px 0px;
+        color: #fff;
+}
 /*8page*/
 .main8 {
     width: 100%;
